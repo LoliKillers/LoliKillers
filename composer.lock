@@ -1,0 +1,141 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "22938105023e44100586592be62c75d2",
+    "packages": [
+        {
+            "name": "abhi1693/yii2-system-info",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/abhi1693/yii2-system-info.git",
+                "reference": "877e74c7beabc65a4b18adaeeb1c5cb4492b6c90"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/abhi1693/yii2-system-info/zipball/877e74c7beabc65a4b18adaeeb1c5cb4492b6c90",
+                "reference": "877e74c7beabc65a4b18adaeeb1c5cb4492b6c90",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "abhimanyu\\systemInfo\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Abhimanyu Saharan",
+                    "email": "abhimanyu@teamvulcans.com"
+                }
+            ],
+            "description": "Information about the server",
+            "support": {
+                "issues": "https://github.com/abhi1693/yii2-system-info/issues",
+                "source": "https://github.com/abhi1693/yii2-system-info/tree/v1.0.0"
+            },
+            "time": "2015-02-16T11:41:55+00:00"
+        },
+        {
+            "name": "danielme85/simple-server-info",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/danielme85/simple-server-info.git",
+                "reference": "4503a71b9f33e6e1b91b2bbda01fe18056bb7fb3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/danielme85/simple-server-info/zipball/4503a71b9f33e6e1b91b2bbda01fe18056bb7fb3",
+                "reference": "4503a71b9f33e6e1b91b2bbda01fe18056bb7fb3",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "danielme85\\Server\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Daniel Mellum",
+                    "email": "mellum@gmail.com"
+                }
+            ],
+            "description": "A simple PHP 7.1+ class to provide system information about your server/system build.",
+            "support": {
+                "issues": "https://github.com/danielme85/simple-server-info/issues",
+                "source": "https://github.com/danielme85/simple-server-info/tree/v1.0"
+            },
+            "time": "2020-02-05T15:54:44+00:00"
+        },
+        {
+            "name": "magnum357i/myanimelist-api",
+            "version": "v1.0.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/magnum357i/myanimelist-api.git",
+                "reference": "b70e4b47452674417610b90f02aff9b848918e8c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/magnum357i/myanimelist-api/zipball/b70e4b47452674417610b90f02aff9b848918e8c",
+                "reference": "b70e4b47452674417610b90f02aff9b848918e8c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^6"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "MyAnimeList\\": "src/MyAnimeList"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Api for MyAnimeList. It contains: anime, manga, character and people.",
+            "support": {
+                "issues": "https://github.com/magnum357i/myanimelist-api/issues",
+                "source": "https://github.com/magnum357i/myanimelist-api/tree/v1.0.0.6"
+            },
+            "time": "2020-09-24T10:46:00+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "abhi1693/yii2-system-info": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
