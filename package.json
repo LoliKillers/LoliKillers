@@ -1,0 +1,23 @@
+{
+  "name": "rublix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoliKillers/rublix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoliKillers/rublix/issues"
+  },
+  "homepage": "https://github.com/LoliKillers/rublix#readme",
+  "dependencies": {
+    "firebase": "^9.6.3"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "u0_a215/rublix",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "U0A215\\Rublix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LoliKillers",
+            "email": "monkidirufi157@gmail.com"
+        }
+    ],
+    "require": {
+        "danielme85/simple-server-info": "^1.0",
+        "abhi1693/yii2-system-info": "@dev",
+        "magnum357i/myanimelist-api": "v1.0.0.6"
+    }
+}
