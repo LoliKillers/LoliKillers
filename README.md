@@ -1,4 +1,4 @@
-![LOLI](https://raw.githubusercontent.com/LoliKillers/LoliKillers/main/preview.gif)
+![LOLI](https://avatars.githubusercontent.com/u/80396688?s=96&v=4)
 ### Hi there 👋
 
 
