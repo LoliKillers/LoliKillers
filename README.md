@@ -14,11 +14,11 @@
 import { contact, User } from './github'
 
 export default class ME implements User {
-    public static firstName = 'Ari'
-    public static lastName = 'Susanto'
-    public static username = 'Loli_Killers'
-    public static website = 'https://api.loli.loveslife.biz'
-    public static aliases = ['LolKill']
+    public static firstName = 'Ari',
+    public static lastName = 'Susanto',
+    public static username = 'Loli_Killers',
+    public static website = null,
+    public static aliases = ['LolKill'],
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'Python', 'HTML', 'css']
     public static info = {
         age: 20,
@@ -49,22 +49,6 @@ export default class ME implements User {
             }
         ]
     }
-    public static projects = [
-        {
-            name: 'Apriliya-Api',
-            homepage: 'https://github.com/LoliKillers',
-            repo: 'https://github.com/LoliKillers/Apriliya-Api/tree/update1',
-            language: ["JavaScript","CSS","HTML"],
-            maintanied: true
-        },
-        {
-            name: 'lolkil-api',
-            homepage: 'https://www.npmjs.com/package/lolkil-api',
-            repo: 'https://github.com/LoliKillers/lolkil-api',
-            lenguage: ["JavaScritp"],
-            maintanied: true
-         }
-    ]
 }
 
 ```
