@@ -19,21 +19,21 @@ export default class ME implements User {
     public static username = 'Loli_Killers',
     public static website = null,
     public static aliases = ['LolKill'],
-    public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'Python', 'HTML', 'css']
+    public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'Python', 'HTML', 'css', 'ruby', 'php']
     public static info = {
         age: 20,
         country: 'Indonesia',
         org: null,
         likes: ['JavaScript', 'Eat_Sleep', 'Well.....'],
-        hobbies: ['Program', 'To Smoke', 'Music'],
+        hobbies: ['Program', 'To Smoke', 'Music', 'Sleep],
         reach: [
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/6286785445412?text=Fuck...'
+                url: 'https://wa.me/6285785445412?text=Yoo'
             },
             {
                 name: contact.Instagram,
-                url: 'https://instagram.com/ariasu.xyz'
+                url: 'https://instagram.com/ariasuxyz'
             },
             {
                 name: contact.Telegarm,
