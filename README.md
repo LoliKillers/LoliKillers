@@ -15,13 +15,13 @@ import { contact, User } from './github'
 
 export default class ME implements User {
     public static username = 'Loli_Killers',
-    public static website = null,
+    public static website = 'https://api.ariasu.xyz',
     public static aliases = ['LolKill'],
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'Python', 'HTML', 'css', 'ruby', 'php']
     public static info = {
         age: 21,
         country: 'Indonesia',
-        org: solo,
+        org: 'yolo',
         likes: ['JavaScript', 'Eat_Sleep', 'Well.....'],
         hobbies: ['Program', 'To Smoke', 'Music', 'Sleep],
         reach: [
