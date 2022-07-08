@@ -14,16 +14,14 @@
 import { contact, User } from './github'
 
 export default class ME implements User {
-    public static firstName = 'Ari',
-    public static lastName = 'Susanto',
     public static username = 'Loli_Killers',
     public static website = null,
     public static aliases = ['LolKill'],
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'Python', 'HTML', 'css', 'ruby', 'php']
     public static info = {
-        age: 20,
+        age: 21,
         country: 'Indonesia',
-        org: null,
+        org: solo,
         likes: ['JavaScript', 'Eat_Sleep', 'Well.....'],
         hobbies: ['Program', 'To Smoke', 'Music', 'Sleep],
         reach: [
@@ -42,10 +40,6 @@ export default class ME implements User {
             {
                 name: contact.github,
                 url: 'https://github.com/LoliKillers'
-            },
-            {
-                name: contact.pinterest,
-                url: 'https://www.pinterest.com/Loli_Killer/'
             }
         ]
     }
