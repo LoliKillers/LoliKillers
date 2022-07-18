@@ -15,7 +15,7 @@ import { contact, User } from './github'
 
 export default class ME implements User {
     public static username = 'Loli_Killers',
-    public static website = 'https://api.ariasu.xyz',
+    public static website = 'https://darkcoder.xyz',
     public static aliases = ['LolKill'],
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'Python', 'HTML', 'css', 'ruby', 'php']
     public static info = {
@@ -27,11 +27,7 @@ export default class ME implements User {
         reach: [
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/6285785445412?text=Yoo'
-            },
-            {
-                name: contact.Instagram,
-                url: 'https://instagram.com/ariasuxyz'
+                url: 'https://wa.me/6285748962434?text=Yoo'
             },
             {
                 name: contact.Telegarm,
