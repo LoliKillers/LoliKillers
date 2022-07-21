@@ -2,7 +2,7 @@
   "alert": "info",
   "alertBg": "success",
   "alertLabel": "warning",
-  "alertIcon": "bx bx-info",
+  "alertIcon": "bx bx-store",
   "alertHeadMessage": "Notice",
   "alertMessage1": "If there are errors, or bugs, please contact me at",
   "alertMessage2": "Our funds will fix it soon",
