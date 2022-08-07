@@ -3,5 +3,9 @@
 <details>
 <summary>List Surah</summary>
 <br>
-example
+* Shell [curl]
+```shell
+curl --request GET \
+  url 'https://api.darkcoder.xyz/dc/islami/list-surah?apikey=YOUR_APIKEY'
+```
 </details>
