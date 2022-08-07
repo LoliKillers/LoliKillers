@@ -350,7 +350,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-logo {
-  margin-bottom: 30px;
+  height: 10px;
 }
 
 #hero h1 {
@@ -1575,7 +1575,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") center center no-repeat;
+  background: url("https://raw.githubusercontent.com/LoliKillers/LoliKillers/main/images/72c1df97-d42e-4e59-a754-4bf92436a66a.jpeg") center center no-repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
@@ -1600,7 +1600,7 @@ section {
 }
 
 #footer .footer-top .footer-logo img {
-  height: 80px;
+  height: 300px;
 }
 
 #footer .footer-top h3 {
