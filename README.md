@@ -16,7 +16,7 @@ var lolkilScraper = require('lolkil-scraper');
 function _GitHub(username) {
   if (!username) return
   lolkilScraper.stalk.github(username)
-  .then(respones => {
+  .then(response => {
     console.log(response)
   })
   .catch(error => {
