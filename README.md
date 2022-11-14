@@ -17,10 +17,10 @@ function _GitHub(username) {
   if (!username) return
   lolkilScraper.stalk.github(username)
   .then(response => {
-    console.log(response)
+    return response
   })
   .catch(error => {
-    console.log(error)
+    return error
   })
 }
 
