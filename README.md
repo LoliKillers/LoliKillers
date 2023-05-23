@@ -29,3 +29,5 @@ _GitHub(username)
 ```
 
 ![counter](https://komarev.com/ghpvc/?username=LoliKillers&style=flat-square)
+
+[![Follow](https://te.legra.ph/file/f1edc406e8b2b096ec9e6.jpg)](www.instagram.com/a̤̮r̤̮i̤̮a̤̮s̤̮ṳ̮.̤̮x̤̮)
